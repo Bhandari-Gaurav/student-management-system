@@ -1,6 +1,5 @@
 # Student Management System Created Using Django
-This is a Simple Student Management System Developed While Learning Django.
-Feel free to make changes based on your requirements.
+“This project is based on an open-source Student Management System template. I used it as a starting point and customized it while learning Django. I modified the structure, updated features, and adapted it according to my own requirements.”
 
 [Front-end Template](http://adminlte.io "Admin LTE.io")
 
