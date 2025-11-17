@@ -89,35 +89,16 @@ $  pip install virtualenv
 
 Create Virtual Environment
 
-For Windows
 ```
 $  python -m venv venv
-```
-For Mac
-```
-$  python3 -m venv venv
-```
-For Linux
-```
-$  virtualenv .
 ```
 
 Activate Virtual Environment
 
-For Windows
 ```
 $  source venv/scripts/activate
 ```
 
-For Mac
-```
-$  source venv/bin/activate
-```
-
-For Linux
-```
-$  source bin/activate
-```
 
 **3. Clone this project**
 ```
@@ -198,11 +179,6 @@ Email: student@student.com
 Password: student
 
 
-
-## For Sponsor or Projects Enquiry
-1. Email - jobowonubi@gmail.com
-2. LinkedIn - [jobic10](https://www.linkedin.com/in/jobic10 "Owonubi Job Sunday on LinkedIn")
-2. Twitter - [jobic10](https://www.twitter.com/jobic10 "Owonubi Job Sunday on Twitter")
 
 
 
