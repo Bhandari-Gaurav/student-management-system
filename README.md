@@ -53,12 +53,6 @@
 |<img src="ss/admin6.png" width="400">|<img src="ss/staff6.png" width="400">|<img src="ss/student6.png" width="400">|
 
 
-
-## Support Developer
-1. Add a Star 🌟  to this 👆 Repository
-2. Follow on Twitter/Github
-
-
 ## Passport/Images
 Images are from [Unsplash](https://unsplash.com)
 
